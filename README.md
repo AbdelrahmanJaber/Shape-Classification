@@ -1,1 +1,1 @@
-# Shapes-Classification
+# Shape-Classification
