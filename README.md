@@ -1,8 +1,8 @@
-# Shape-Classification
+# Shape-Classifier
 
 **Description:**
 
-Shape Classification is a cutting-edge Java application designed to tackle binary and multi-class shape classification challenges with precision and ease. Leveraging advanced machine learning techniques, including the Perceptron algorithm for binary classification and Neural Networks for multi-class classification, this application ensures accurate and efficient classification of shapes. With a user-friendly graphical user interface (GUI), users can dynamically input shape data and customize learning parameters to fine-tune model performance. Whether you're a beginner exploring the world of shape classification or an experienced data scientist seeking a powerful tool for your projects, Shape Classification provides the versatility and reliability you need to succeed. Download the code and watch the demo video to experience the power of shape classification firsthand.
+Shape Classifier is a cutting-edge Java application designed to tackle binary and multi-class shape classification challenges with precision and ease. Leveraging advanced machine learning techniques, including the Perceptron algorithm for binary classification and Neural Networks for multi-class classification, this application ensures accurate and efficient classification of shapes. With a user-friendly graphical user interface (GUI), users can dynamically input shape data and customize learning parameters to fine-tune model performance. Whether you're a beginner exploring the world of shape classification or an experienced data scientist seeking a powerful tool for your projects, Shape Classification provides the versatility and reliability you need to succeed. Download the code and watch the demo video to experience the power of shape classification firsthand.
 
 
 **Key Features:**
