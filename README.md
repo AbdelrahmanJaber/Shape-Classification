@@ -26,3 +26,6 @@ Shape Classifier is a cutting-edge Java application designed to tackle binary an
 * Clone the repository and run the application.
 * Input data points and adjust learning parameters as needed.
 * Explore the classification regions and analyze system performance.
+
+**Demo:**
+Watch the demo here: https://www.youtube.com/watch?v=lgpTTVAxlUo
